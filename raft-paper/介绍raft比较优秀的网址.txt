@@ -1,0 +1,7 @@
+http://thesecretlivesofdata.com/raft/
+http://www.opscoder.info/category/distributed/
+http://hustcat.github.io/go_raft_in_etcd/
+https://raft.github.io/
+http://www.infoq.com/cn/articles/coreos-analyse-etcd
+https://zhuanlan.zhihu.com/p/31118381?utm_medium=social&utm_source=weibo
+https://zhuanlan.zhihu.com/p/27908888?utm_medium=social&utm_source=weibo
